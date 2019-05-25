@@ -2,4 +2,8 @@
 
 ## Welcome to your learning GIT repo. 
 
-### Testing branch. Play here safely, this won't go to Master.
+### Go ahead and break anything you want, we want you to learn as much as you can. 
+
+#### Git is fun! :D
+
+I refuse your test and raise you a four five six
